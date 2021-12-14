@@ -1,4 +1,4 @@
-- 👋 Hola yo soy @MariaCeciliaRomero
+- 👋 Holaaa! Soy Cecilia Romero.
 - 👀 Busco introducirme al mundo laboral IT. Compartir conocimientos y dispuesta a seguir capacitándome.
 - 🌱 Actualmente estoy estudiando Licenciatura en Sistemas de Información.
 - 💞️ Lenguaje C, Java. Inglés avanzado.
