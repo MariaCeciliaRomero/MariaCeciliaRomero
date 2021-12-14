@@ -3,6 +3,7 @@
 - 🌱 Actualmente estoy estudiando Licenciatura en Sistemas de Información.
 - 💞️ Lenguaje C, Java. Inglés avanzado.
 - 📫 Contactarme a ma.ceciliaromero@gmail.com @cecilia_romero0
+- 👩‍💻👨‍💻 Si quieres escribirme para interactuar, no dudes en hacerlo!
 
 <!---
 MariaCeciliaRomero/MariaCeciliaRomero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
