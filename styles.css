@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #d06f93; /* Rosa oscuro para el encabezado */
+    background-color: #121212; /* Rosa oscuro para el encabezado */
     color: #fff;
     padding: 1.5rem;
     text-align: center;
@@ -27,7 +27,7 @@ main {
 }
 
 footer {
-    background-color: #d06f93; /* Rosa oscuro para el pie de página */
+    background-color: #121212; /* Rosa oscuro para el pie de página */
     color: #fff;
     text-align: center;
     padding: 1rem;
