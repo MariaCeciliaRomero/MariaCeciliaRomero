@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #121212; /* Rosa oscuro para el encabezado */
+    background-color: #121212; /* Negro para el encabezado */
     color: #fff;
     padding: 1.5rem;
     text-align: center;
@@ -27,7 +27,7 @@ main {
 }
 
 footer {
-    background-color: #121212; /* Rosa oscuro para el pie de página */
+    background-color: #121212; /* Negro para el pie de página */
     color: #fff;
     text-align: center;
     padding: 1rem;
@@ -35,7 +35,7 @@ footer {
     width: 100%;
     bottom: 0;
     font-size: 1rem;
-    border-top: 5px solid #f78fb3; /* Detalle elegante en el pie de página */
+    border-top: 5px solid #e10eb8; /* Detalle elegante en el pie de página */
 }
 
 button {
