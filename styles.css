@@ -1,24 +1,78 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #f9f9f9; /* Fondo suave, casi blanco */
+    color: #333;
 }
+
 header {
-    background-color: #333;
+    background-color: #f78fb3; /* Un color rosa suave */
     color: #fff;
-    padding: 1rem;
+    padding: 1.5rem;
     text-align: center;
+    border-bottom: 5px solid #d06f93; /* Detalle elegante con borde rosa oscuro */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    font-size: 1.6rem; /* Texto un poco más grande */
+    letter-spacing: 1px; /* Espaciado más amplio */
 }
+
 main {
     padding: 2rem;
+    background-color: #fff; /* Fondo blanco para la sección principal */
+    border-radius: 10px; /* Bordes redondeados */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Sombra para un efecto de elevación */
+    max-width: 900px;
+    margin: 2rem auto;
 }
+
 footer {
-    background-color: #333;
+    background-color: #f78fb3; /* Mismo rosa suave que el header */
     color: #fff;
     text-align: center;
     padding: 1rem;
     position: fixed;
     width: 100%;
     bottom: 0;
+    font-size: 1rem;
+    border-top: 5px solid #d06f93; /* Detalle elegante en el pie de página */
 }
+
+button {
+    background-color: #ff69b4; /* Un color rosa fuerte */
+    color: #fff;
+    padding: 0.8rem 1.5rem;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 30px; /* Bordes redondeados */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #ff1493; /* Un rosa más intenso al pasar el ratón */
+}
+
+a {
+    color: #f78fb3;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #d06f93;
+}
+
+h1, h2, h3 {
+    font-family: 'Georgia', serif; /* Para dar un toque más elegante y femenino */
+    color: #d06f93;
+    margin-bottom: 1rem;
+}
+
+p {
+    line-height: 1.6;
+    color: #555; /* Un gris oscuro para mayor legibilidad */
+    font-size: 1.1rem;
+}
+
